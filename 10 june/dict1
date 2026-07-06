@@ -1,0 +1,15 @@
+x={}
+print(x,type(x))
+#add
+x=["name"]="ram"
+print(x)
+print(x["name"])
+#update
+x["name"]="shyam"
+print(x)
+x[10]="stud data"
+print(x)
+
+#del or pop()
+del x[10]
+print(x)
