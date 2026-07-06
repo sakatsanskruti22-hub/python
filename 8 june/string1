@@ -1,8 +1,0 @@
-str="maharashtra"
-
-print(str[0:4])
-print(str[6:10])
-print(str[::2])
-print(str[-1])
-print(str[::-1])
-
